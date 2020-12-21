@@ -1,0 +1,21 @@
+body{
+    background-color: #000 !important;
+    margin: auto;
+    margin-bottom: 200px;
+    overflow-x: hidden !important;
+}
+
+#my_dataviz{
+    background-color: none;
+}
+
+#viz_text{
+    width: 100vw;
+    margin: auto; 
+    font-size: 100px;
+    text-align: center !important;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    margin-top: none;
+}
