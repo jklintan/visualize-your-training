@@ -1,4 +1,4 @@
-d3.csv("/data/trainingData.csv", function(data) {
+d3.csv("../data/trainingData.csv", function(data) {
 
   // USER INPUT
   var color;
